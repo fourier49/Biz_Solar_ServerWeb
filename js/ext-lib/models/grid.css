@@ -1,0 +1,40 @@
+
+
+.x-column-header-inner {
+	margin-top: 7px;
+	font-size: 13px;
+	color:#282A54;
+	letter-spacing:1px;
+}
+
+.x-grid-cell {
+	vertical-align:middle;
+	padding-left:7px;
+}
+
+.x-grid-cell-inner {
+	margin:2px 2px 1px 0px;
+	font-size:12px;
+}
+
+.x-grid-cell-name b {
+	font-size:12.5px;
+	display: block;
+}
+.x-grid-cell-name {
+	white-space: normal;
+}
+.x-grid-cell a {
+	display: block;
+	color: #385F95;
+	font-weight:normal;
+	text-decoration: none;
+}
+.x-grid-cell a:hover {
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+#area-grid .x-grid-cell {
+	padding:5px 0px 5px 8px;
+}
